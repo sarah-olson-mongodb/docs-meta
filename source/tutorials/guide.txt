@@ -22,5 +22,5 @@
      Congratulations! You've reached the end of this one part
      series on creating guides!
    seealso:
-     - :guides:`Check out the guides site for examples.`
+     - :guides:`Check out the guides site for examples. </>`
      - :doc:`Tabbed Content Tutorial </tutorials/tabbed-content>`
